@@ -1,1 +1,1 @@
-This is my attempt at doing a capstone project from Google Data Analytics Professional Certification Course on Coursera. This folder contains the project presentation in pdf, data cleaning and manipulation documentation in .html (which I've done using R), and a visualization workbook from Tableau public which can be accessed from https://public.tableau.com/views/Book1_16288383385170/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
